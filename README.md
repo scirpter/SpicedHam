@@ -5,6 +5,7 @@ Go research prototype for selected native Snapchat Android protocol paths on Win
 > **Status:** Experimental, incomplete and for educational purposes only.
 
 ## Scope
+- Reverse-engineered Snapchat version: **14.26.1.0** (Android, version code `317772`)
 
 - Janus password-login and Atlas friends protocol code
 - APK, signature and native-library verification
