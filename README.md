@@ -2,7 +2,7 @@
 
 Go research prototype for selected native Snapchat Android protocol paths on Windows x64.
 
-> **Status:** Experimental, incomplete and for educational purposes only. The current code is not a Snapchat Web client; the Web rewrite is not implemented.
+> **Status:** Experimental, incomplete and for educational purposes only.
 
 ## Scope
 
