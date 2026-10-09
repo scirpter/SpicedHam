@@ -20,6 +20,6 @@ The implemented Janus/Atlas endpoints match the analysed native Snapchat paths a
 Snapchat access temporarily disabled
 ```
 
-As of right now, I was not able to figure out how to bypass this. It would require an actual real iOS or Android device (no emulator).
+As of right now, I was not able to figure out how to bypass this. It would require an actual real iOS or Android device (no emulator) for attestation.
 Try yourself:
 `./snapnative.exe -account test friends`
